@@ -29,5 +29,5 @@ Let's connect and explore how we can innovate together!
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Let's Connect](www.linkedin.com/in/abdu-maha)
+- LinkedIn: [Let's Connect](https://www.linkedin.com/in/abdu-maha)
 - Blog: [Read my Blog](https://medium.com/@archabdulrm)
