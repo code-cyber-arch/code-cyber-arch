@@ -8,15 +8,13 @@ Hello! I'm a multidisciplinary professional passionate about integrating softwar
 
 Let's connect and explore how we can innovate together!
 
-## 🛠 Skills
+## 📊 My GitHub Stats
+![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=radical)
 
+## 🛠 Skills
 - Languages: Python, JavaScript, HTML, CSS
 - Frameworks: React, Node.js, Django
 - Tools: Git, Docker, Jenkins
-
-## 📊 My GitHub Stats
-![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=radical)
-![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=radical)
 
 ## 📚 Learning Projects
 
@@ -24,6 +22,5 @@ Let's connect and explore how we can innovate together!
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](LinkedIn URL)
-- Twitter: [@yourhandle](Twitter URL)
-- Blog: [Your Blog Name](Your Blog URL)
+- LinkedIn: [Let's Connect](www.linkedin.com/in/abdu-maha)
+- Blog: [Read my Blog](https://medium.com/@archabdulrm)
