@@ -1,7 +1,7 @@
 # Hello, I'm Abdurahman 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=amirasabdu)
 ## 👨‍💻 About Me
-Hello! I'm a multidisciplinary professional passionate about integrating software engineering, cybersecurity, and architectural design. With expertise in software development, cybersecurity best practices, and proficiency in Building Information Modeling (BIM) tools, I strive to innovate the design and security of our built environments.
+I'm a multidisciplinary professional passionate about integrating software engineering, cybersecurity, and architectural design. With expertise in software development, cybersecurity best practices, and proficiency in Building Information Modeling (BIM) tools, I strive to innovate the design and security of our built environments.
 
 > My mission is to design secure, efficient, and innovative spaces. By integrating my skills in software engineering, cybersecurity, and architectural design, I aim to push the boundaries of what's possible in the built environment.
 
