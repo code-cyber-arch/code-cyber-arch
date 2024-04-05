@@ -12,9 +12,6 @@ Let's connect and explore how we can innovate together!
 ![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirasabdu)
 
-
-
-
 ## 🛠 Certifications
 - CompTIA A+
 - CompTIA Network+
@@ -25,7 +22,7 @@ Let's connect and explore how we can innovate together!
 
 ## 📚 Learning Projects
 
-- [Project Name](Link to Project) - A short description of what it does.
+- 
 
 ## 🤝 Connect with Me
 
