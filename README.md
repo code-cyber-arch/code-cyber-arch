@@ -15,7 +15,7 @@ Let's connect and explore how we can innovate together!
 - 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirasabdu)
 - 
-![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=radical)
+![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=shadow_blue)
 - 
 ## 🛠 Certifications
 - CompTIA A+
