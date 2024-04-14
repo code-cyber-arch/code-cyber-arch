@@ -36,12 +36,12 @@ Let's connect and explore how we can innovate together!
 ![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=shadow_blue)
 - 
 ##  Certifications
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- ISC2 - CC (Certified in Cybersecurity)
-- eJPT - Juniour Penetration Tester
 - eWPT - Web App Penetration Tester
+- eJPT - Junior Penetration Tester
+- ISC2 - CC (Certified in Cybersecurity)
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
 
 ## 📚 Learning Projects
 - 
