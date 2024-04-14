@@ -9,7 +9,7 @@ Let's connect and explore how we can innovate together!
 <br>
  - 💬 Ask me about architecture, cybersecurity, or software development.
  - 🔭 I’m currently working on improving my programming skills and contributing to open-source projects.
-<h4 align="left">Languages and Tools:</h4>
+## 🛠 Languages and Tools:
 <p align="left"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -35,7 +35,7 @@ Let's connect and explore how we can innovate together!
 - 
 ![Abdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirasabdu&show_icons=true&theme=shadow_blue)
 - 
-## 🛠 Certifications
+##  Certifications
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
