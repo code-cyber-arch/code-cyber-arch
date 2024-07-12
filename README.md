@@ -44,6 +44,8 @@ Let's connect and explore how we can innovate together!
 - CompTIA A+
 
 ## 📚 Learning Projects
+- Building IFC viewer
+- Learning Managment System
 - 
 ## 🤝 Connect with Me
 - LinkedIn: [Let's Connect](https://www.linkedin.com/in/abdu-maha)
