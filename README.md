@@ -95,22 +95,13 @@ I'm a multidisciplinary professional passionate about integrating **software eng
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-cyber-arch&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-cyber-arch&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
+  <!-- Modern Profile Summary Card (Working) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-cyber-arch&theme=dracula" alt="Profile Summary Card" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-cyber-arch&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
   
 ### 🏆 Certifications
 **eWPT** (Web App Penetration Tester) • **eJPT** (Junior Penetration Tester) • **ISC2 CC** (Certified in Cybersecurity) • **CompTIA** (Security+, Network+, A+)
