@@ -21,7 +21,7 @@ I sit in an unusual overlap: ten years designing and modelling buildings, now do
 
 ---
 
-## ▚ CURRENT RESEARCH
+## ▚ RESEARCH
 
 **Adversarial Machine Learning under Drift: Comparative Evaluation of Adaptive Defence Mechanisms**
 Master of Cybersecurity (thesis stream), La Trobe University
